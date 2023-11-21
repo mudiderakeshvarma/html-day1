@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+       
+    
+        .r:hover {
+  background-color: yellow;
+        }
+        .r3:hover {
+  background-color: green;
+        }
+        .r4:hover {
+  background-color: pink;
+        }
+        .r5:hover {
+  background-color: rebeccapurple;
+        }
+        .r6:hover {
+  background-color: red;
+        }
+        .r7:hover {
+  background-color: yellowgreen;
+        }
+        .r8:hover {
+  background-color: goldenrod;
+        }
+        .r9:hover {
+  background-color: gold;
+        }
+        .r10:hover {
+  background-color: brown;
+        }
+        .r11:hover {
+  background-color: peru;
+        }
+        .r12:hover {
+  background-color: blueviolet;
+        }
+        .r13:hover {
+  background-color: wheat;
+        }
+        .r14:hover {
+  background-color: blue;
+        }
+        
+.r1{
+   
+    background-color: black;
+    width: 100%;
+    height: 1000px;
+}
+.r2{
+    display: grid;
+  grid-template-columns: 120px  120px  120px ;
+  grid-template-rows: 120px 120px 120px 120px;
+  padding: 100px;
+}
+.r2{
+    position: absolute;
+    left: 30%;
+}
+.r3:hover{
+  padding: 7px;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.r4:hover{
+  padding: 7px;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.r5:hover{
+  padding: 7px;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.r6:hover{
+  padding: 7px;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.r7:hover{
+  padding: 7px;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.r8:hover{
+  padding: 7px;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.r9:hover{
+  padding: 7px;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.r10:hover{
+  padding: 7px;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.r11:hover{
+  padding: 7px;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.r12:hover{
+  padding: 7px;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.r13:hover{
+  padding: 7px;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.r14:hover{
+  padding: 7px;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+
+
+
+
+</style>
+</head>
+<body>
+    <div class="r1">
+    <h1 style="color: yellowgreen;"><center>Zoom Images</center></h1><br>
+
+    <div class="r2">
+
+        <div class="r3"><img src="./flex1.jpeg" height="100px" width="100px"></div>
+        <div class="r4"><img src="./flex2.jpeg" height="100px" width="100px"></div>
+        <div class="r5"><img src="./flex3.jpeg" height="100px" width="100px"></div>
+        <div class="r6"><img src="./flex4.jpeg" height="100px" width="100px"></div>
+        <div class="r7"><img src="./flex5.jpeg" height="100px" width="100px"></div>
+        <div class="r8"><img src="./flex6.jpeg" height="100px" width="100px"></div>
+        <div class="r9"><img src="./flex7.jpeg" height="100px" width="100px"></div>
+        <div class="r10"><img src="./flex8.jpeg" height="100px" width="100px"></div>
+        <div class="r11"><img src="./flex9.jpeg" height="100px" width="100px"></div>
+        <div class="r12"><img src="./flex10.jpeg" height="100px" width="100px"></div>
+        <div class="r13"><img src="./flex11.jpeg" height="100px" width="100px"></div>
+        <div class="r14"><img src="./flex12.jpeg" height="100px" width="100px"></div>
+        
+</div>
+</div>
+</body>
+</html>
